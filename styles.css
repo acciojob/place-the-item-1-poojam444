@@ -5,21 +5,25 @@
 	justify-content:space-between
 }
 #child3{
-	order: 1;
+	order: 0;
 	height:80px;
 	width:80px;
 	background-color:green;
+	font-size:36px;
 }
 .child2{
 	order:2;
 	height:80px;
 	width:80px;
 	background-color:blue;
-	font-size:16px;
+	font-size:36px;
+	
 }
 .child1{
 	order:1;
 	height:80px;
 	width:80px;
 	background-color:red;
+	font-size:36px;
+	
 }
