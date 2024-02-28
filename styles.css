@@ -4,12 +4,22 @@
 	display:flex;
 	justify-content:space-between
 }
-.child3{
-	order:1;
+#child3{
+	order: 1;
+	height:80px;
+	width:80px;
+	background-color:green;
 }
 .child2{
 	order:2;
+	height:80px;
+	width:80px;
+	background-color:blue;
+	font-size:16px;
 }
 .child1{
 	order:1;
+	height:80px;
+	width:80px;
+	background-color:red;
 }
