@@ -7,23 +7,23 @@
 }
 #child3{
 	order: 0;
-	height:80px;
-	width:80px;
+	height:100px;
+	width:100px;
 	background-color:green;
 	font-size:36px;
 }
 .child2{
 	order:2;
-	height:80px;
-	width:80px;
+	height:100px;
+	width:100px;
 	background-color:blue;
 	font-size:36px;
 	
 }
 .child1{
 	order:1;
-	height:80px;
-	width:80px;
+	height:100px;
+	width:100px;
 	background-color:red;
 	font-size:36px;
 	
